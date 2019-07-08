@@ -1,7 +1,7 @@
-## Sobre o ZeroIf Blog
+## About ZeroIf Blog
 
-Contém tutoriais e dicas de programação em F# e WebSharper.
+Short tips and tutorias about F# and WebSharper programming
 
-### Dicas sobre WebSharper
+### WebSharper Tips
 
-- DateTime vs WebSharper/Javascript vs Postgres
+- [Dealing with DateTime Internationalization on WebSharper](/blob/master/artigos/websharper/datetime-i18n.md)
