@@ -2,7 +2,7 @@
 
 This article describes how to setup a WebSharper client-server application to handle DateTime with internationalization.
 
-We are going to use pt-BR (Brazilian Portuguese) language, but changing it to other language might be straighforward.
+We are going to use pt-BR (Brazilian Portuguese) language, but changing it to other language might be straightforward.
 
 ## Setting up UICulture/Culture
 
@@ -152,13 +152,13 @@ ReturnClientDate function:
 
 > ReturnClientDate:
 
-> 07/07/2019 **23:58:31***
+> 07/07/2019 **23:58:31**
 
 ReturnClientDateAsLocal function:
 > Trace Output:
 
 > ReturnClientDateAsLocal:
 
-> 07/07/2019 **23:58:31***
+> 07/07/2019 **23:58:31**
 
 > 07/07/2019 20:58:31
