@@ -4,4 +4,4 @@ Short tips and tutorias about F# and WebSharper programming
 
 ### WebSharper Tips
 
-- [Dealing with DateTime Internationalization on WebSharper](/blob/master/artigos/websharper/datetime-i18n.md)
+- [Dealing with DateTime Internationalization on WebSharper](/artigos/websharper/datetime-i18n.md)
