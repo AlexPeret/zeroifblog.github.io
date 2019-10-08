@@ -43,6 +43,7 @@ This article describes how to compile a WebSharper client-server application on 
 ```
 
 4. run VS Code and open the '~/programs/websharper/ClientServerSample1' folder [Ctrl+K Ctrl+O]
+
 4.1. open a *Terminal* (View > Terminal) and remove the 'Microsoft.AspNetCore.All' package
 
 `> dotnet remove package Microsoft.AspNetCore.All`
