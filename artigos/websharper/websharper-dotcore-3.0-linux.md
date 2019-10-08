@@ -129,9 +129,7 @@ System.InvalidOperationException: Synchronous operations are disallowed. Call Wr
 3. back to the *Terminal*, call build and run commands again. The application might work now.
 
 ## Useful resources
-https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.0&tabs=visual-studio
-https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/
-https://stackoverflow.com/questions/47735133/asp-net-core-synchronous-operations-are-disallowed-call-writeasync-or-set-all
-https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-3.0
-
- 
+- [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-3.0&tabs=visual-studio)
+- [Deep-dive into .NET Core primitives, part 3: runtimeconfig.json in depth](https://natemcmaster.com/blog/2019/01/09/netcore-primitives-3/)
+- [ASP.NET Core : Synchronous operations are disallowed. Call WriteAsync or set AllowSynchronousIO to true instead](https://stackoverflow.com/questions/47735133/asp-net-core-synchronous-operations-are-disallowed-call-writeasync-or-set-all)
+- [Kestrel web server implementation in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?view=aspnetcore-3.0)
